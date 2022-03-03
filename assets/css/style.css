@@ -1,0 +1,9 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+/* used to reset the p element default margin-bottom in bootstrap (specifically validation errors)*/
+span.reset p {
+    margin: 0%;
+}
